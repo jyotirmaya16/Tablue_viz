@@ -29,7 +29,7 @@ Harness the power of data visualization with Tableau Insightful Dashboards! This
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/jyotirmaya16/Tablue_viz/blob/main/LICENSE)) file for details.
 
 ## Acknowledgments
 
