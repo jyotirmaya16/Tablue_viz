@@ -1,4 +1,3 @@
-# Tablue_viz
 # Tableau Insightful Dashboards 📊
 
 Welcome to the Tableau Insightful Dashboards repository! 🚀
